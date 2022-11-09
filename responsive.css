@@ -1,0 +1,357 @@
+@media only screen and (max-width: 1280px){
+    #live h1 {
+      
+        padding-right: 0%;
+        padding-left: 58px;
+       
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    #live h1 {
+        padding-left: 45%; 
+    }
+    #live-video h1 {
+        padding-left: 2%;  
+    }
+
+    video {
+        margin-left: 1%;
+    }
+    #border h4 {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 5px 7px 5px 7px;
+    }
+}
+
+@media only screen and (max-width: 820px){
+    video {
+        height: 250px;
+        width: 650px;
+        padding-left: 100px;
+    }
+
+    
+
+    #live {
+    background-image: url(image/sport\ man.png);
+    content-visibility: auto;
+    padding-right:200px;
+    
+}
+#live h1 {
+    padding-left: 30%;
+    font-size: 35px;
+}
+#player-play h1 {
+    margin-left: 10%;
+    font-size: 35px;
+    padding-top: 25%;
+    
+}
+#player-play p {
+    
+    margin-left: 10%;
+    font-size: 18px;
+}
+[type=submit]:not(:disabled), button:not(:disabled) {
+
+    margin-left: 87px;
+}
+#player-play1 h1 {
+    margin-left: 1%;
+    font-size: 35px;
+}
+#player-play1 p {
+    font-size: 18px;
+    margin-left: 1%;
+}
+
+#player-play3 img {
+    padding-left: 0%;
+    margin-top: -12%;
+}
+#button {
+ margin-left: 1%;
+   
+}
+#both-player img {
+    margin-top: -26%;
+    margin-left: -9%;
+    height: 518px;
+    width: 323px;
+}
+
+#player-play6 img {
+    margin-top: -32%;
+    margin-left: -4%;
+}
+#live-video h1 {
+    padding-left: 15%;
+    font-size: 20px;
+    padding-bottom: 26px;
+}
+#border h4 {
+    font-size: 19px;
+    font-weight: bold;
+    padding: 2px 4px 1px 3px;
+}
+#border p {
+    padding: 2px 10px 0px 3px;
+}
+#border h5 {
+    padding: 0px 2px 16px 8px;
+}
+#button2 {
+    margin-left: 40%;
+    margin-bottom: 9%;
+}
+
+#footer h4 {
+    font-size: 21px;
+
+}
+#btn-follow {
+    
+    margin-bottom: 10px;
+    font-size: 10px;
+    margin-left: 128px;
+}
+#color-social-media {
+    font-size: 18px;
+    padding-top: -5%;
+}
+}
+
+
+@media only screen and (max-width: 768px){
+
+    #live h1 {
+        padding-left: 35%;
+    }
+    video {
+        height: 339px;
+        width: 600px;
+        padding-left: 90px;
+    }
+
+
+    #both-player img {
+        margin-left: -9%;
+        height: 535px;
+        width: 330px;
+       
+    }
+    [type=submit]:not(:disabled), button:not(:disabled) {
+        cursor: pointer;
+        margin-left: 40px;
+    }
+    #player-play6 img {
+        margin-top: -18%;
+        margin-left: -4%;
+    }
+    #footer h4 {
+        font-size: 19px;
+    }
+
+}
+
+
+ @media only screen and (max-width: 415px){
+
+    .nav-item a {
+        font-weight: bold;
+        margin-left: 17px;
+    }
+
+    #live-video h1 {
+        display: none;
+    }
+   
+    
+    video {
+        display: none;
+    }
+    #btn-follow {
+        margin-bottom: 10px;
+        font-size: 10px;
+        margin-left: -174px;
+    }
+    #live-time h1 {
+        font-size: 20px;
+    }
+    #day {
+     
+        font-size: 20px;
+    }
+    .number {
+        font-size: 30px;
+    }
+    #live h1 {
+        display: none;
+
+    
+    }
+    #player-play p {
+        margin-left: 1%;
+    }
+
+    #player-play h1 {
+        margin-left: 1%;
+        font-size: 30px
+    }
+
+    #live{
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    div#banner {
+        background-color: #000000;
+        height: 370px;
+    }
+
+    [type=submit]:not(:disabled), button:not(:disabled) {
+        margin-left: 5px;
+    }
+
+
+
+    #both-player {
+        background-color: #12edfa;
+        height: 280px;
+        margin-top: 9%;
+        margin-left: 18px;
+    }
+    #player-play2 h1 {
+        font-size: 30px;
+        
+    }
+    
+    
+    #player-play1 p {
+        font-size: 16px;
+        margin-left: 1%;
+    }
+    #both-player img {
+        margin-left: -6%;
+        height: 369px;
+        width: 303px;
+        margin-top: -24%;
+        padding-top: 6%;
+
+       
+    }
+    #player-play2 p {
+        font-size: 13px;
+        padding-bottom: 50px;
+    }
+    #player-play3{
+        background-color: #12edfa;
+        height: 200px;
+        margin-bottom: 20%;
+        margin-left: 18px;
+    }
+    #player-play3 img {
+        
+        margin-left: 15%;
+        margin-top: -15%;
+        height: 252px;
+        width: 258px
+    
+    }
+
+    #player-play4{
+        background-color: #12edfa;
+        height: 200px;
+        margin-bottom: 20%;
+        margin-left: 18px;
+    }
+    #player-play4 img {
+        margin-left: 5%;
+        margin-top: -15%;
+        height: 251px;
+        width: 265px;
+    }
+    #player-play5 h1 {
+        padding-left: 30%;
+        margin-top: -76px;
+        padding-bottom: 24%;
+        
+    }
+    #player-play6 img {
+        margin-top: -24%;
+        margin-left: -4%;
+    }
+    #player-play6 p {
+        padding-left: 1%;
+        font-size: 20px;
+    }
+    #button1 {
+        margin-left: 1%;
+        margin-bottom: 5%;
+    }
+    #recent-post h1 {
+        font-size: 35px;
+    }
+    
+    #subscribe p {
+        text-align: start;
+        font-size: 20px;
+        margin-left: -78px;
+    }
+
+    #subscribe p b{
+        margin-left: 1%;   
+    }
+    
+   
+    
+    #button2 {
+        margin-left: 26%;
+      
+    }
+
+    #subscribe{
+        padding-top: 20px;
+        padding-bottom: 5px;
+        padding-left: 120px;
+    }
+
+   
+    .form-control {
+              width: 200%;
+        padding-left: -20px;
+    }
+    #contact-form {
+        width: 351px;
+    }  
+    #footer a {
+        font-size: 14px;
+        font-weight: 400;
+           
+    }
+      
+    }
+
+
+
+
+
+@media only screen and (max-width: 376px){
+#player-play p {
+    font-size: 16px;
+   
+}
+#player-play1 p {
+    font-size: 16px;
+   
+}
+#player-play2 p {
+    font-size: 12px;
+}
+#player-play6 p {
+   
+    font-size: 15px;
+}
+}

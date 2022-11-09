@@ -1,0 +1,412 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.navbar{
+  background-color: #12edfa;
+    margin-top: 2%;
+}
+
+div#banner {
+    background-color:#000000;
+    height: 800px;
+}
+.navbar-brand {
+    
+    font-weight: bold;
+    padding-left: 5%;
+  
+}
+
+.nav-item a{
+    
+    font-weight: bold;
+    margin-left: 37px;
+    margin-right: 0px;
+    padding-left: -59%
+}
+
+#live {
+    background-image: url(image/sport\ man.png);
+    height: 700px;
+    background-repeat: round;
+    
+}
+#live h1{
+    color: white;
+   text-transform: uppercase;
+   text-align: center;
+   padding-right: 8%;
+   padding-top: 8%;
+   font-weight: bold;
+   font-size: 55px;
+   
+}
+
+#live-time{
+    background-color: #12edfa;
+}
+
+#live-time h1{
+    color: white;
+    text-transform: uppercase ;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+#day{
+font-weight: bold;
+text-align: center;
+margin-bottom: 41px;
+padding-top: 0px;
+font-size: 45px;
+
+}
+
+.number{
+    
+    font-size: 80px;
+    text-align: center;
+}
+
+
+#play1{
+    background-color: #000000;
+}   
+
+#play1 img {
+    padding: -42px;
+    margin: -12px;
+    margin-top: 0%;
+    padding-top: 25%;
+
+}
+#player-play h1{
+color: #12edfa;
+margin-left: 34%;
+font-size: 60px;
+font-weight: bold;
+padding-top: 25%;
+text-transform: uppercase;
+
+}
+
+.btn{
+    margin-left: 34%;
+    background-color: #12edfa;
+    color: #000000;
+    font-weight: 400;
+}
+
+#player-play p{
+    color: white;
+    margin-left: 34%;
+    text-align: justify;
+    font-size: 20px;
+    
+}
+
+#both-player {
+    background-color: #12edfa;
+    height: 458px;
+    margin-top: 10%;
+}
+#player-play1{
+    background-color: #000000;
+}
+
+#player-play1 h1{
+   
+color: #12edfa;
+font-size: 60px;
+font-weight: bold;
+padding-top: 30%;
+margin-left: 10%;
+text-transform: uppercase;
+} 
+
+
+
+#player-play1 p{
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 10%;
+    
+    
+}
+
+#button{
+    margin-left: 10%;   
+}
+
+#both-player img{
+    margin-top: -14%;
+    margin-left: -6%;
+}
+
+#player-play2 {
+background-color: #000000;
+padding-bottom: 10%;
+}
+
+#player-play2 h1{
+
+text-align: justify;
+text-transform: uppercase;
+text-align: center;
+color: #12edfa;
+font-size: 60px;
+font-weight: bold;
+padding-top: 10%;
+}
+
+#player-play2 p{
+    text-align: justify;
+    text-align: center;
+    color: white;
+    font-size: 20px
+   
+}
+
+#player-play4{
+     background-color: #12edfa;  
+}
+
+#player-play3{
+    background-color: #12edfa;  
+
+}
+
+#player-play3 img{
+    padding-left: 15%;
+    margin-top: -20%;
+}
+
+#player-play4 img{
+    padding-left: 15%;
+    margin-top: -20%;
+}
+
+#player-play3{
+   
+
+    margin-right: 2%;
+    margin-left: 4%;
+}
+
+#player-play4{
+   
+    margin-left: 3%;
+    
+}  
+
+#single-player{
+    background-color: #000000;
+    color: white;
+   
+   
+}
+
+#single-player h1{
+text-align: center;
+justify-content: center;
+}
+
+#player-play5 h1{
+   
+    text-align: justify;
+    padding-left: 58%;
+    text-transform: uppercase;
+    padding-top: 10%;
+    padding-bottom: 2%;
+    
+}
+
+#one-man{
+    background-color: #12edfa;
+}
+
+#player-play6 img{
+    margin-top: -45%;
+    margin-left: -3%;
+}
+
+#player-play6 p{
+    text-align: center;
+    padding-top: 5%;
+    
+    text-align: justify;
+   
+    padding-left: 18%;
+    font-size: 20px;
+}
+
+
+
+#button1 {
+    margin-left: 18%;
+}
+
+video{
+    height: 656px;
+    width: 1011px;
+    margin-left: 18%;
+    
+    
+}
+
+#live-video{
+    background-color: #000000;
+}
+
+#live-video h1{
+    padding-top: 10%;
+    padding-left: 17%;
+    margin-bottom: -3%;
+    color: white;
+}
+
+#color-text{
+    background-color: red;
+    color: #ffffff;
+}
+
+#recent-post h1{
+ text-align: center;
+ font-weight: bold;
+ font-size: 50px;
+ padding-top: 3%;
+ padding-bottom: 3%;
+ color: #ffffff;
+}
+
+#background{
+    background-color: #000000;
+}
+
+#border h4{
+    color: #000000;
+    font-size: 34px;
+    text-transform: uppercase;
+    padding: 4px 41px 5px 21px;
+
+    
+}
+#border h5{
+    text-transform: uppercase; 
+    font-weight: bold;
+    padding: 4px 41px 24px 21px;
+
+}
+
+#border p{
+    color: #000000;
+    padding: 4px 41px 0px 21px;
+}
+
+
+#border{
+    background-color: white;
+}
+
+
+
+#blog img{ 
+    background-color: #12edfa; 
+    width: 100%;
+}
+
+#subscribe p{
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#name{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.form-control{
+   
+    margin-top: 2%;
+    margin-bottom: 2%;
+    }
+
+
+
+#button {
+    text-align: center;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+
+#button2{
+    text-align: center;
+    margin-left: 45%;
+    margin-bottom: 2%;
+}
+
+#footer{
+    background-color: #12edfa;
+    color: #000000;
+    padding-top: 1%;
+}
+
+#footer a{
+    margin-top: 2% ;
+text-decoration: none;
+color: #000000;
+font-weight: bold;
+}
+
+#footer h4{
+    font-weight: bold;
+}
+
+#footer p{
+    font-weight: 600;
+}
+
+
+.text-end {
+    text-align: left!important;
+}
+
+.text-end {
+    text-align: start;
+}
+
+#button0{
+    color: #ffffff;
+}
+
+
+#btn-follow{
+    color: white;
+    margin-top: -1%;
+   margin-bottom: 10px;
+}
+
+#follow{
+    background-color: #12edfa;
+    padding-left: 54%;
+    padding-top: -12%;
+}
+
+#color-social-media{
+    font-size: 28px;
+    padding-top: -5%;
+    color: black;
+}
+
+
